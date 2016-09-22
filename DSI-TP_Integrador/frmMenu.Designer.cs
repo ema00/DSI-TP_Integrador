@@ -1,6 +1,6 @@
 ﻿namespace DSI_TP_Integrador
 {
-    partial class Form1
+    partial class frmMenu
     {
         /// <summary>
         /// Required designer variable.

@@ -1,1 +1,6 @@
 C:\Users\Familia\Documents\Fernando\2016\Diseño de Sistemas\TP Integrador\DSI-TP_Integrador\DSI-TP_Integrador\DSI-TP_Integrador\bin\Debug\DSI-TP_Integrador.exe.config
+C:\Users\Familia\Documents\Fernando\2016\Diseño de Sistemas\TP Integrador\DSI-TP_Integrador\DSI-TP_Integrador\bin\Debug\DSI-TP_Integrador.exe.config
+C:\Users\Familia\Documents\Fernando\2016\Diseño de Sistemas\TP Integrador\DSI-TP_Integrador\DSI-TP_Integrador\obj\Debug\DSI-TP_Integrador.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Documents\Fernando\2016\Diseño de Sistemas\TP Integrador\DSI-TP_Integrador\DSI-TP_Integrador\obj\Debug\DSI_TP_Integrador.frmMenu.resources
+C:\Users\Familia\Documents\Fernando\2016\Diseño de Sistemas\TP Integrador\DSI-TP_Integrador\DSI-TP_Integrador\obj\Debug\DSI_TP_Integrador.Properties.Resources.resources
+C:\Users\Familia\Documents\Fernando\2016\Diseño de Sistemas\TP Integrador\DSI-TP_Integrador\DSI-TP_Integrador\obj\Debug\DSI-TP_Integrador.csproj.GenerateResource.Cache
