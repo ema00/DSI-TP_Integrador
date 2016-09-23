@@ -10,13 +10,10 @@ namespace DSI_TP_Integrador
 
     class Persona
     {
-
-        public int id { set; get; }
-        public long dni { set; get; }
+        public ulong id { set; get; }
+        public ulong dni { set; get; }
         public string apellido { set; get; }
         public string nombre { set; get; }
         public string sexo { set; get; }
-
-
     }
 }

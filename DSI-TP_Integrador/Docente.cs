@@ -12,12 +12,9 @@ namespace DSI_TP_Integrador
         private string usuario;
         private string password;
 
-        public Docente(int dni, string apellido, string nombre, string sexo, string usuario, string password)
+        public Docente(ulong id, ulong dni, string apellido, string nombre, string sexo, string usuario, string password)
         {
-
-            GeneradorID generadorID = new GeneradorID();
-
-            this.id = generadorID.getNuevaId();
+            this.id = id;
             this.dni = dni;
             this.apellido = apellido;
             this.nombre = nombre;
