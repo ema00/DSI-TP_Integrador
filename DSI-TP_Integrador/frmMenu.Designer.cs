@@ -99,6 +99,7 @@
             this.btnSalir.TabIndex = 6;
             this.btnSalir.Text = "Salir";
             this.btnSalir.UseVisualStyleBackColor = true;
+            this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
             // 
             // frmMenu
             // 
@@ -114,6 +115,7 @@
             this.Controls.Add(this.btnAdministrarCursos);
             this.Name = "frmMenu";
             this.Text = "Menu";
+            this.Load += new System.EventHandler(this.frmMenu_Load);
             this.ResumeLayout(false);
 
         }

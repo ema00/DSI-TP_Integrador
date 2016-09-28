@@ -4,3 +4,14 @@ C:\Users\Familia\Documents\Fernando\2016\Diseño de Sistemas\TP Integrador\DSI-T
 C:\Users\Familia\Documents\Fernando\2016\Diseño de Sistemas\TP Integrador\DSI-TP_Integrador\DSI-TP_Integrador\obj\Debug\DSI_TP_Integrador.frmMenu.resources
 C:\Users\Familia\Documents\Fernando\2016\Diseño de Sistemas\TP Integrador\DSI-TP_Integrador\DSI-TP_Integrador\obj\Debug\DSI_TP_Integrador.Properties.Resources.resources
 C:\Users\Familia\Documents\Fernando\2016\Diseño de Sistemas\TP Integrador\DSI-TP_Integrador\DSI-TP_Integrador\obj\Debug\DSI-TP_Integrador.csproj.GenerateResource.Cache
+C:\Users\Daniel Pretto\Downloads\Git\DSI-TP_Integrador\bin\Debug\DSI-TP_Integrador.exe.config
+C:\Users\Daniel Pretto\Downloads\Git\DSI-TP_Integrador\obj\Debug\DSI-TP_Integrador.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Pretto\Downloads\Git\DSI-TP_Integrador\obj\Debug\DSI_TP_Integrador.frmAsistencias.resources
+C:\Users\Daniel Pretto\Downloads\Git\DSI-TP_Integrador\obj\Debug\DSI_TP_Integrador.frmIniciarSesion.resources
+C:\Users\Daniel Pretto\Downloads\Git\DSI-TP_Integrador\obj\Debug\DSI_TP_Integrador.frmMenu.resources
+C:\Users\Daniel Pretto\Downloads\Git\DSI-TP_Integrador\obj\Debug\DSI_TP_Integrador.Properties.Resources.resources
+C:\Users\Daniel Pretto\Downloads\Git\DSI-TP_Integrador\obj\Debug\DSI-TP_Integrador.csproj.GenerateResource.Cache
+C:\Users\Daniel Pretto\Downloads\Git\DSI-TP_Integrador\bin\Debug\DSI-TP_Integrador.exe
+C:\Users\Daniel Pretto\Downloads\Git\DSI-TP_Integrador\bin\Debug\DSI-TP_Integrador.pdb
+C:\Users\Daniel Pretto\Downloads\Git\DSI-TP_Integrador\obj\Debug\DSI-TP_Integrador.exe
+C:\Users\Daniel Pretto\Downloads\Git\DSI-TP_Integrador\obj\Debug\DSI-TP_Integrador.pdb

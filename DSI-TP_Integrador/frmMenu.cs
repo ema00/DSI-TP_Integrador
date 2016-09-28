@@ -17,5 +17,19 @@ namespace DSI_TP_Integrador
         {
             InitializeComponent();
         }
+
+        private void frmMenu_Load(object sender, EventArgs e)
+        {
+            //  Recibir el tipo de user
+            //  Ocultar botones no permitidos al user
+        }
+
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            //  Cerrar sesión
+            //  Abrir Iniciar Sesión
+            //  Cerrar Menú
+            //  Fin de la rutina
+        }
     }
 }

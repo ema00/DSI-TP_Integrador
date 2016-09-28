@@ -16,5 +16,18 @@ namespace DSI_TP_Integrador
         {
             InitializeComponent();
         }
+
+        private void btnAceptar_Click(object sender, EventArgs e)
+        {
+            //  Conectar con la base de datos
+            //  Enviar user y password
+            //  Retornar estado
+            //  Si el user y el password son correctos
+                //  Abrir el Menú
+                //  Cerrar este formulario
+            //  Si el user y el password son incorrectos
+                //  Notificar al usuario
+            //  Fin de la rutina
+        }
     }
 }

@@ -50,6 +50,12 @@
     <Compile Include="Docente.cs" />
     <Compile Include="Estado.cs" />
     <Compile Include="Evaluacion.cs" />
+    <Compile Include="frmAsistencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAsistencias.Designer.cs">
+      <DependentUpon>frmAsistencias.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmIniciarSesion.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,6 +72,9 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UsuarioSecretaria.cs" />
+    <EmbeddedResource Include="frmAsistencias.resx">
+      <DependentUpon>frmAsistencias.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmIniciarSesion.resx">
       <DependentUpon>frmIniciarSesion.cs</DependentUpon>
     </EmbeddedResource>
