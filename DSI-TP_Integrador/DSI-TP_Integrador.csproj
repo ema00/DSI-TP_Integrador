@@ -71,10 +71,6 @@
     <Compile Include="frmMenu.Designer.cs">
       <DependentUpon>frmMenu.cs</DependentUpon>
     </Compile>
-    <Compile Include="IMapperAlumno.cs" />
-    <Compile Include="IMapperCursada.cs" />
-    <Compile Include="IMapperCurso.cs" />
-    <Compile Include="IMapperDocente.cs" />
     <Compile Include="Persona.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
