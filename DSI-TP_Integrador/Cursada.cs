@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DSI_TP_Integrador
 {
-    class Cursada
+    public class Cursada
     {
 
         private ulong id;

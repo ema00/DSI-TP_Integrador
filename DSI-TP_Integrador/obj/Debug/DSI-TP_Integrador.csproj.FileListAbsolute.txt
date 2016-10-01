@@ -15,3 +15,6 @@ C:\Users\Daniel Pretto\Downloads\Git\DSI-TP_Integrador\bin\Debug\DSI-TP_Integrad
 C:\Users\Daniel Pretto\Downloads\Git\DSI-TP_Integrador\bin\Debug\DSI-TP_Integrador.pdb
 C:\Users\Daniel Pretto\Downloads\Git\DSI-TP_Integrador\obj\Debug\DSI-TP_Integrador.exe
 C:\Users\Daniel Pretto\Downloads\Git\DSI-TP_Integrador\obj\Debug\DSI-TP_Integrador.pdb
+C:\Users\ema\Desktop\UTN SE Courses\08_Diseño de Sistemas 2016\DSI-TP_Integrador\DSI-TP_Integrador\bin\Debug\DSI-TP_Integrador.exe.config
+C:\Users\ema\Desktop\UTN SE Courses\08_Diseño de Sistemas 2016\DSI-TP_Integrador\DSI-TP_Integrador\obj\Debug\DSI-TP_Integrador.exe
+C:\Users\ema\Desktop\UTN SE Courses\08_Diseño de Sistemas 2016\DSI-TP_Integrador\DSI-TP_Integrador\obj\Debug\DSI-TP_Integrador.pdb
