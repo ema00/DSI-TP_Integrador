@@ -1,4 +1,14 @@
-﻿using System;
+﻿/*
+Clase: Clase
+Representa una clase de un determinado curso (cursada) en particular.
+Cada clase tiene un identificador único (para persistencia), una fecha, un número de clase,
+y un diccionario en el cual están todos los alumnos que cursan; en este diccionario, cuya
+clave es un objeto persona, el valor es un booleano que indica si estuvo presente en la clase.
+*/
+
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

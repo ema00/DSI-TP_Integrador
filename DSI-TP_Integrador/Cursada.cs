@@ -1,13 +1,24 @@
-﻿using System;
+﻿/*
+Clase: Cursada
+Representa una edición en particular de un determinado Curso.
+Una instancia de la clase Cursada, tiene una fecha de inicio y fin de cursado, el temario
+de un determinado Curso, un profesor y alumnos.
+El identificador único id se usa para la persistencia.
+*/
+
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DSI_TP_Integrador
-{
-    public class Cursada
-    {
+
+
+namespace DSI_TP_Integrador {
+
+    public class Cursada {
 
         private ulong id;
         private ulong cupoMin;
@@ -25,8 +36,7 @@ namespace DSI_TP_Integrador
         //  Constructor de una cursada en particular.
         //  Alternativa: En lugar de pasarle la lista de clases a la cursada en el constructor,
         //  también podría añadirse una a una las clases a la lista de la cursada particular con un método addClase().
-        public Cursada(ulong id, ulong cupoMin, ulong cupoMax, DateTime fechaInicio, DateTime fechaFin, byte aula/*, Curso curso, List<Clase> clases*/, Docente docente)
-        {
+        public Cursada(ulong id, ulong cupoMin, ulong cupoMax, DateTime fechaInicio, DateTime fechaFin, byte aula/*, Curso curso, List<Clase> clases*/, Docente docente) {
             this.id = id;
             this.cupoMin = cupoMin;
             this.cupoMax = cupoMax;
@@ -39,8 +49,7 @@ namespace DSI_TP_Integrador
             this.docente = docente;
         }
 
-        public void cambiarEstado(int estado)
-        {
+        public void cambiarEstado(int estado) {
             this.estado.estadoActual = estado;
         }
 
@@ -49,8 +58,7 @@ namespace DSI_TP_Integrador
             this.inscriptos.Add(alumno);
         }*/
 
-        public void addEvaluacion(Evaluacion evaluacion)
-        {
+        public void addEvaluacion(Evaluacion evaluacion) {
             this.evaluaciones.Add(evaluacion);
         }
     }

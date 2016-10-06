@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+Interfaz: IMapperAlumno
+Interfaz que debe implementar la clase de persistencia para los objetos
+de la clase Alumno.
+*/
+
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

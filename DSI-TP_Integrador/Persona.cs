@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+Clase: Persona
+Representa una persona. Tiene toda la información referente a una persona.
+El identificador único id se usa para la persistencia.
+*/
+
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

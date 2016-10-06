@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+Interfaz: IMapperCursada
+Interfaz que debe implementar la clase de persistencia para los objetos
+de la clase Cursada.
+*/
+
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

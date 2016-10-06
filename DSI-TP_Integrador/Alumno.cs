@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+Clase: Alumno
+Representa un alumno en el sistema. Desciende de la clase abstracta Persona.
+*/
+
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
